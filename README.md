@@ -1,4 +1,6 @@
 # Alunos:
-> João Vitor Graf
-> Eduardo Felipe Marschall
-> Leonardo Kobus
+João Vitor Graf
+
+Eduardo Felipe Marschall
+
+Leonardo Kobus
